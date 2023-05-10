@@ -1,9 +1,8 @@
-
-# test
+# ${response.title}
 
 ## Description
 
-test
+${response.description}
 
 ## Table of Contents
 
@@ -18,35 +17,34 @@ test
 
 ## Installation
 
-test
+${response.installation}
 
 ---
 
 ## Usage
 
-test
+${response.usage}
 
 ---
 
 ## Contribution
 
-test
+${response.contribution}
 
 ---
 
 ## Tests
 
-test
+${response.tests}
 
 ---
 
 ## License
 
-MIT
+${response.license}
 
 ---
 
 ## Contact 
 
-Please reach out to joey.tranvik@gmail.com if you have any questions.
-        
+Please reach out to ${response.questions} if you have any questions.
