@@ -1,16 +1,13 @@
-
-# test
+# README Generator
 
 ## Description
 
-test
+An application that allows the user to create a README.md file from a series of prompts.
 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Tests](#tests)
+- [Demo](#demo)
 - [License](#license)
 - [Contact](#contact)
 
@@ -18,25 +15,13 @@ test
 
 ## Installation
 
-test
+Run "NPM i" in the root directory of the application, and then type "node index.js" to start the program.
 
 ---
 
-## Usage
+## Demo
 
-test
-
----
-
-## Contribution
-
-test
-
----
-
-## Tests
-
-test
+To view a demo of this project, click this link: https://drive.google.com/file/d/1qNEvZpNcsEPEu3GHeirq1FfQNbI1glUW/view
 
 ---
 
@@ -46,7 +31,6 @@ MIT
 
 ---
 
-## Contact 
+## Contact
 
 Please reach out to joey.tranvik@gmail.com if you have any questions.
-        
